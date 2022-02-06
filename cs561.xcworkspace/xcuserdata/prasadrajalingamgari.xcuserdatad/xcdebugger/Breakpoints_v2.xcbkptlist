@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "899711A1-EE62-4FF6-9301-D9567D2FB91E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D063AE2E-FE39-4039-809D-BEB59F569DF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "testIsLuckyBecauseWeAlreadyHaveLuckyNumber()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D063AE2E-FE39-4039-809D-BEB59F569DF0 - 516399d608b43370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "D063AE2E-FE39-4039-809D-BEB59F569DF0 - 516399d608b43351"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43724E36-C1ED-424E-9A51-B3DFCDB70BED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testIsLuckyBecauseWeAlreadyHaveLuckyNumber()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43724E36-C1ED-424E-9A51-B3DFCDB70BED - ab0a6e5a3a83abbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "43724E36-C1ED-424E-9A51-B3DFCDB70BED - ab0a6e5a3a83abdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "43724E36-C1ED-424E-9A51-B3DFCDB70BED - ab0a6e5a3a83abf8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5A9B9EB-D982-4454-B884-D5AE9115F8B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "testIsLuckyBecauseWeAlreadyHaveLuckyNumber()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5A9B9EB-D982-4454-B884-D5AE9115F8B2 - 516399d608b43429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "B5A9B9EB-D982-4454-B884-D5AE9115F8B2 - 516399d608b43406"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "B5A9B9EB-D982-4454-B884-D5AE9115F8B2 - 516399d608b434e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "B5A9B9EB-D982-4454-B884-D5AE9115F8B2 - 516399d608b43406"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "844">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4380AA4-038A-4E43-96D0-720F213D9523"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "testIsLuckyBecauseWeAlreadyHaveLuckyNumber()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4380AA4-038A-4E43-96D0-720F213D9523 - 516399d608b434a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1140">
+               </Location>
+               <Location
+                  uuid = "A4380AA4-038A-4E43-96D0-720F213D9523 - 516399d608b43482"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "A4380AA4-038A-4E43-96D0-720F213D9523 - 516399d608b43563"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1140">
+               </Location>
+               <Location
+                  uuid = "A4380AA4-038A-4E43-96D0-720F213D9523 - 516399d608b43482"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeAlreadyHaveLuckyNumber() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C11587B8-1E7E-4EA2-917D-08421F7CE637"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "testIsLuckyBecauseWeatherHasAnEight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C11587B8-1E7E-4EA2-917D-08421F7CE637 - b866accd57abfa45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "C11587B8-1E7E-4EA2-917D-08421F7CE637 - b866accd57abfa66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "C11587B8-1E7E-4EA2-917D-08421F7CE637 - b866accd57abfa07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DD1779F-CEB4-4E2B-8CD0-AB115775EA51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "testIsLuckyBecauseWeatherHasAnEight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6DD1779F-CEB4-4E2B-8CD0-AB115775EA51 - 99314c8558023fae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "6DD1779F-CEB4-4E2B-8CD0-AB115775EA51 - 99314c8558023f8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "6DD1779F-CEB4-4E2B-8CD0-AB115775EA51 - 99314c8558023068"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B27972A-E76D-495B-9DE3-F9EB6F499A23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "testIsLuckyBecauseWeatherHasAnEight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2B27972A-E76D-495B-9DE3-F9EB6F499A23 - b866accd57abf51e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  uuid = "2B27972A-E76D-495B-9DE3-F9EB6F499A23 - b866accd57abf53f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  uuid = "2B27972A-E76D-495B-9DE3-F9EB6F499A23 - b866accd57abf5d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "812">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0543506D-3BB5-416E-A1FE-3F091A57339A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "testIsLuckyBecauseWeatherHasAnEight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0543506D-3BB5-416E-A1FE-3F091A57339A - b866accd57abf5f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "0543506D-3BB5-416E-A1FE-3F091A57339A - b866accd57abf592"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "0543506D-3BB5-416E-A1FE-3F091A57339A - b866accd57abf5b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLibraryTests.MyLibraryTests.testIsLuckyBecauseWeatherHasAnEight() throws -&gt; ()"
+                  moduleName = "MyLibraryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasadrajalingamgari/Documents/Winter_Term/SE/cs561-swift/MyLibrary/Tests/MyLibraryTests/MyLibraryTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
